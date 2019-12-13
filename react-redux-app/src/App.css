@@ -1,0 +1,21 @@
+body {
+	background-image: linear-gradient(black, black), url("two-person-in-bar-stools-1005639.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-position: center;
+	background-blend-mode: saturation;
+}
+
+.App {
+	text-align: center;
+	/* border: 2px solid yellow; */
+	color: burlywood;
+	font-size: 2rem;
+}
+
+h1 {
+	text-shadow: 0px 2px 5px black;
+}
+
+.Button {
+}
